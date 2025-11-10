@@ -30,3 +30,5 @@ alternativa silenciosa(Quiet Mode): bash sm_iniciar.bash
 # AVISO LEGAL!!!
 essa ferramenta foi desenvolvida apenas para fins educativos! o uso deste programa para ações ilegais e criminosas e sem autorização está por sua conta e risco!
 
+
+# developed by ceifador and Limax
