@@ -1,0 +1,2 @@
+download -r /storage/emulated/0/DCIM  /home/*
+
