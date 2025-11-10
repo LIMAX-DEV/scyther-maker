@@ -1,3 +1,11 @@
+# LINUX 
+    git clone https://github.com/LIMAX-DEV/scyther-maker.git
+    cd scyther-maker
+    chmod +x setup.bash
+    bash setup.bash
+    sudo apt-get install aplay
+    chmod +x sm.bash
+    bash sm.bash
 
 # Introdução
 Scyther Maker é um software baseado no metasploit-framework e utiliza muitas das funcionalidades ja existentes nele.
